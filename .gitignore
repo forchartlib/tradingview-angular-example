@@ -43,4 +43,4 @@ testem.log
 Thumbs.db
 
 #tradingview library
-src/assets/vendors/charting_library
+# src/assets/vendors/charting_library
